@@ -8,3 +8,16 @@ Inicio de creación de Repositorio para la Clase 2 de TalentoTech, Manejo de rep
 
 ## REFERENCIAS
 [Visita GOOGLE](http://www.google.com.co)
+
+__Texto en negrita__
+
+## COLOCANDO CÓDIGO FUENTE
+```python
+def hola_mundo():
+    print("Hola, mundo!")
+```
+```JS
+function mi_funcion(){
+  alert ("Hola Mundo")
+}
+```
