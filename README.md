@@ -7,4 +7,4 @@ Inicio de creación de Repositorio para la Clase 2 de TalentoTech, Manejo de rep
 - Versión 2
 
 ## REFERENCIAS
-[GOOGLE](https://www.google.com.co "Ingresa a Google" target="_blank")
+[Visita GOOGLE](http://www.google.com.co)
