@@ -5,3 +5,6 @@
 Inicio de creación de Repositorio para la Clase 2 de TalentoTech, Manejo de repositorios y MarkDown
 - Versión 1
 - Versión 2
+
+## REFERENCIAS
+[GOOGLE](https://www.google.com.co "Ingresa a Google" target="_blank")
