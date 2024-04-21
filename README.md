@@ -21,3 +21,8 @@ function mi_funcion(){
   alert ("Hola Mundo")
 }
 ```
+
+## COLOCANDO IMÁGENES
+<p align="center">
+<img src="logos/logotalento.jpg" height="200">
+</p>
