@@ -16,9 +16,9 @@ __Texto en negrita__
 def hola_mundo():
     print("Hola, mundo!")
 ```
-```JS
+```javascript
 function mi_funcion(){
-  alert ("Hola Mundo")
+    alert ("Hola Mundo")
 }
 ```
 
